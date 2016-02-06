@@ -7,8 +7,6 @@ ISO 639-1 ↔ ISO 639-2 translator
 .. image:: https://img.shields.io/pypi/dm/iso_639_codes.svg
     :target: https://pypi.python.org/pypi/iso_639_codes
 
-.. image:: https://img.shields.io/pypi/l/iso_639_codes.svg
-
 .. image:: https://img.shields.io/github/issues/Bystroushaak/iso_639_codes.svg
     :target: https://github.com/Bystroushaak/iso_639_codes/issues
 
