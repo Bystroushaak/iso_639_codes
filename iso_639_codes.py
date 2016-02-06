@@ -197,7 +197,7 @@ iso_639_2_to_1 = {
 
 iso_639_1_to_2 = {
     val: key
-    for key, val in iso_639_2_to_1
+    for key, val in iso_639_2_to_1.items()
 }
 
 
